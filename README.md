@@ -6,6 +6,11 @@ The model was trained on google colab using yolov4. 1400 iterations were done wi
 
 The model can be tested on both images and videos.
 
+## Sample Output Images
+
+![Sample Output](predictions.jpg)
+
+![Sample Output](predictions(1).jpg)
 
 ## Model Details:
 
@@ -27,6 +32,4 @@ mean average precision (mAP@0.50) = 0.986944, or 98.69 %
 
 Total Detection Time: 33 Seconds
 
-![Sample Output](predictions.jpg)
 
-![Sample Output](predictions(1).jpg)
