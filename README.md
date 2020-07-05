@@ -26,3 +26,7 @@ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall
 mean average precision (mAP@0.50) = 0.986944, or 98.69 % 
 
 Total Detection Time: 33 Seconds
+
+![Sample Output](predictions.jpg)
+
+![Sample Output](predictions(1).jpg)
