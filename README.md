@@ -1,7 +1,7 @@
 # MaskDetector
 A simple face mask detector that can be run on Google colab. Model trained using yolov4
 
-The [weights file](https://drive.google.com/file/d/1L6GoC29jPW17fKV_QUeHNaT07GLWnfI-/view?usp=sharing) along with other files in this repo need to be uploaded in colab.
+The [weights file](https://drive.google.com/file/d/1Fil8VJLGiEHlRk_iAeGepQgKbKB2xS79/view?usp=sharing) along with other files in this repo need to be uploaded in colab.
 The model was trained on google colab using yolov4. 1400 iterations were done with 1486 images for training.
 
 The model can be tested on both images and videos.
